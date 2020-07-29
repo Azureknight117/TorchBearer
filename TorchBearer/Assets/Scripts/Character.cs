@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Base Class for all Player characters to inherit from (Currently has full functionality for the melee character)
 public class Character : Actor
 {
   

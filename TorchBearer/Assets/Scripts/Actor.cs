@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Base class for Player characters and enemies to inherit from
+
 public class Actor : MonoBehaviour
 {
     public float maxHealth;
