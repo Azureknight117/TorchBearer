@@ -65,3 +65,6 @@ crashlytics-build.properties
 *.prefab linguist-generated
 *.unity linguist-generated
 
+# Windows
+Thumbs.db
+Thumbs.db.meta
